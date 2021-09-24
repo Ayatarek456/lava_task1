@@ -15,7 +15,7 @@ with open("result.yml", "wb") as outfile:
         with open(f, "rb") as infile:
             outfile.write(infile.read())
   #this file finalllllllllllllll to eliminate ant duplication          
-output_file_path=open(r"C:\Users\CompuLand\Downloads\translations\translations\fina.yml","w") 
+output_file_path=open(r"C:\Users\CompuLand\Downloads\translations\translations\translate_one.yml","w") 
 #output_file_path="C:\\Users\CompuLand\Downloads\translations\translations\result.yml") 
 #input_file_path ="C:\\Users\CompuLand\Downloads\translations\translations\all_yml.yml")
 completed_lines_hash = set()
